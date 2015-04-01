@@ -1,2 +1,9 @@
-color mushroom
-
+"color coffee
+"color synic
+"color mushroom
+"color jellybeans
+"color Sunburst
+color Tomorrow-Night
+"color radicalgoodspeed
+"color last256
+"color monokai
