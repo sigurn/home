@@ -52,6 +52,8 @@ set lazyredraw                                      " don't update display when 
 set laststatus=2                                    " tell VIM to always put a status line in, even if there's only one window
 
 set cmdheight=2                                     " use a status bar that is two rows height
+let g:airline_powerline_fonts = 1
+let g:airline#extensions#tabline#enabled = 1
 " }}}
 
 " Vim behavior {{{
